@@ -93,7 +93,7 @@ The dashboard provides actionable insights into **orders, revenue, customers, de
 
 **Aryan Bataviya**
 🎓 Data Analyst | Power BI| Excel | SQL | Python
-🔗 LinkedIn & GitHub Portfolio
+
 
 ---
 
