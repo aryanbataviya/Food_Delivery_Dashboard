@@ -77,11 +77,6 @@ The dashboard provides actionable insights into **orders, revenue, customers, de
 * Dunzo
 * In-house delivery
 
----
-
-## 📂 Repository Structure
-
-```
 
 ## 🧠 Skills Demonstrated
 
